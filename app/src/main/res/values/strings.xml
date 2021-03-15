@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Viikko7</string>
+    
+    <string-array name="products">
+    <item>Pepsi Max 0.5l</item>
+    <item>Pepsi Max 1.5l</item>
+    <item>Coca-Cola 0.5l</item>
+    <item>Coca-Cola 1.5l</item>
+    </string-array>
+
+</resources>
